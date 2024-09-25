@@ -2,6 +2,73 @@
 
 
 ================================PLAYLIST COMOTAN_EDITED BY VAN'S================================
+#EXTINF:-1 tvg-id="" tvg-name="VP| VIAPLAY Main Event 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay & PPV",VP| VIAPLAY Main Event 1
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/194839.ts
+#EXTINF:-1 tvg-id="" tvg-name="VP| VIAPLAY PREM LEAGUE TOP" tvg-logo="" group-title="Viaplay & PPV",VP| VIAPLAY PREM LEAGUE TOP
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/194876.ts
+#EXTINF:-1 tvg-id="" tvg-name="VP| VIAPLAY PREM LEAGUE 1" tvg-logo="" group-title="Viaplay & PPV",VP| VIAPLAY PREM LEAGUE 1
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/194871.ts
+#EXTINF:-1 tvg-id="" tvg-name="VP| VIAPLAY PREM LEAGUE 2" tvg-logo="" group-title="Viaplay & PPV",VP| VIAPLAY PREM LEAGUE 2
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/194859.ts
+#EXTINF:-1 tvg-id="" tvg-name="VP| VIAPLAY FORMULE 1" tvg-logo="" group-title="Viaplay & PPV",VP| VIAPLAY FORMULE 1
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/194838.ts
+#EXTINF:-1 tvg-id="" tvg-name="VP| Sky Sports F1" tvg-logo="" group-title="Viaplay & PPV",VP| Sky Sports F1
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/194877.ts
+#EXTINF:-1 tvg-id="" tvg-name="VP| VIAPLAY PDC DARTS" tvg-logo="" group-title="Viaplay & PPV",VP| VIAPLAY PDC DARTS
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/194853.ts
+#EXTINF:-1 tvg-id="" tvg-name="VP| VIAPLAY SNOOKER" tvg-logo="" group-title="Viaplay & PPV",VP| VIAPLAY SNOOKER
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/216207.ts
+#EXTINF:-1 tvg-id="" tvg-name="VP| VIAPLAY BUNDESLIGA 1" tvg-logo="" group-title="Viaplay & PPV",VP| VIAPLAY BUNDESLIGA 1
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/194880.ts
+#EXTINF:-1 tvg-id="" tvg-name="VP| VIAPLAY BUNDESLIGA 2" tvg-logo="" group-title="Viaplay & PPV",VP| VIAPLAY BUNDESLIGA 2
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/194832.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Liga Campeones 1 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4DwG4CDWgA04zmKPSezNXKKBnbiCd-E3ZLfh4duUuaEYsmSS-DavbLU2e5UT6mDWw.png" group-title="Spain",ES| Movistar Liga Campeones 1 HD
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25832.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Liga Campeones 2 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4DwG4CDWgA04zmKPSezNXKJdEfAbIQ8YMyYVhlAEM_ZNxrl_o7Asy7afvRftM5WmI.png" group-title="Spain",ES| Movistar Liga Campeones 2 HD
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25830.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Liga Campeones 3" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4DwG4CDWgA04zmKPSezNXKvtxZbU7vxNbkZ8bPMXM0HS_eN7bBy_5OACKFIe_7MA4.png" group-title="Spain",ES| Movistar Liga Campeones 3
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25829.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR LIGA CAMPEONES 4" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4DwG4CDWgA04zmKPSezNXK4Q0SchXp-YF2npDYOxn4zw9gK4BOQm9t3CI6-IPL1MQ.png" group-title="Spain",ES| MOVISTAR LIGA CAMPEONES 4
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25840.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Liga Campeones 5" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4DwG4CDWgA04zmKPSezNXKDM8_wy24-ztbICw7WncBIik3SMRFd-vc6PioI_qdltg.png" group-title="Spain",ES| Movistar Liga Campeones 5
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25827.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Liga Campeones 6" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4DwG4CDWgA04zmKPSezNXK3oduvdokMeCXLaORhT0tS8EFJqBirF0I4ucC-TGQwD8.png" group-title="Spain",ES| Movistar Liga Campeones 6
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25826.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Liga Campeones 7" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4DwG4CDWgA04zmKPSezNXKpkrMAtlILB-SapTUf2wboA4iL15C0HhJjmHLNMoJRxc.png" group-title="Spain",ES| Movistar Liga Campeones 7
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25825.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar Liga Campeones 8" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4DwG4CDWgA04zmKPSezNXKB48W9BvdQqoTyuw2WTGPn2RdTXnQiZ8_SSDoy5mhkk8.png" group-title="Spain",ES| Movistar Liga Campeones 8
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25824.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar La Liga 1 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4EWAVhzXvHKyrTx7gBNgNqO0hiMgKpIKvyt4j_NDXFOg.png" group-title="Spain",ES| Movistar La Liga 1 HD
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25823.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar La Liga 2 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4EWAVhzXvHKyrTx7gBNgNqO0hiMgKpIKvyt4j_NDXFOg.png" group-title="Spain",ES| Movistar La Liga 2 HD
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25821.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar La Liga 3" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4EWAVhzXvHKyrTx7gBNgNqO0hiMgKpIKvyt4j_NDXFOg.png" group-title="Spain",ES| Movistar La Liga 3
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25819.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar La Liga 4" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4EWAVhzXvHKyrTx7gBNgNqO0hiMgKpIKvyt4j_NDXFOg.png" group-title="Spain",ES| Movistar La Liga 4
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25818.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar La Liga 5" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4EWAVhzXvHKyrTx7gBNgNqO0hiMgKpIKvyt4j_NDXFOg.png" group-title="Spain",ES| Movistar La Liga 5
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25817.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar La Liga 6" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4EWAVhzXvHKyrTx7gBNgNqO0hiMgKpIKvyt4j_NDXFOg.png" group-title="Spain",ES| Movistar La Liga 6
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25816.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar La Liga 7" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4EWAVhzXvHKyrTx7gBNgNqO0hiMgKpIKvyt4j_NDXFOg.png" group-title="Spain",ES| Movistar La Liga 7
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25815.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar La Liga 8" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4EWAVhzXvHKyrTx7gBNgNqO0hiMgKpIKvyt4j_NDXFOg.png" group-title="Spain",ES| Movistar La Liga 8
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25814.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar La Liga 9" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4EWAVhzXvHKyrTx7gBNgNqO0hiMgKpIKvyt4j_NDXFOg.png" group-title="Spain",ES| Movistar La Liga 9
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/25813.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU| MatchTV" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl61A5FTtpj0Lr4u2c41VXZn.png" group-title="Russia",RU| MatchTV
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/24802.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU| Match! Planeta" tvg-logo="http://tvd.naam.ro/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl6rUnBCnLBhfGwDlEE_eTrstalG6kxH1WtSPsdXQYeF8w.png" group-title="Russia",RU| Match! Planeta
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/24803.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU| Match Premier" tvg-logo="http://tvd.naam.ro/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl5-zII2dC66jupEtzDDVbLXMqQBgB6Qc1y4YHPUX2F0bg.png" group-title="Russia",RU| Match Premier
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/24804.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU| Match Football 3" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4WZ_pTLBIHNTCdgCHv-Ok5p3bRqV4M6zX_cBPF35pKmw.png" group-title="Russia",RU| Match Football 3
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/24805.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU| Match Football 2" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4WZ_pTLBIHNTCdgCHv-Ok5_v1So6HB4x6iaSdl5x8bPQ.png" group-title="Russia",RU| Match Football 2
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/24806.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU| Match Football 1" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl4WZ_pTLBIHNTCdgCHv-Ok5w-psc7zGX563TzW6zCA32g.png" group-title="Russia",RU| Match Football 1
+http://tvc.raam.re:2082/live/24%3Afc%3Ae5%3A17%3Ad0%3Ad0/12345/24807.ts
 
 ==================== SPORTS MIX ==================
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstars.png" group-title="SPORTS MIX",Sportstars 1
